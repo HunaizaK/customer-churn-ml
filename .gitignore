@@ -1,0 +1,19 @@
+# Environments
+.venv/
+venv/
+*.egg-info/
+
+# Caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Data and trained models are reproduced by `make run`
+data/
+artifacts/
+
+# Local secrets
+.env
+kaggle.json
