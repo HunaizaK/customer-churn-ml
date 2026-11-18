@@ -1,0 +1,44 @@
+{
+  "top_features": [
+    {
+      "feature": "tenure",
+      "mean_abs_shap": 0.5613982314477532
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "mean_abs_shap": 0.41529058113523615
+    },
+    {
+      "feature": "MonthlyCharges",
+      "mean_abs_shap": 0.37539693076807007
+    },
+    {
+      "feature": "avg_monthly_spend",
+      "mean_abs_shap": 0.36908416264860544
+    },
+    {
+      "feature": "num_services",
+      "mean_abs_shap": 0.35937571219670006
+    },
+    {
+      "feature": "Contract_Month-to-month",
+      "mean_abs_shap": 0.34829376482202884
+    },
+    {
+      "feature": "InternetService_DSL",
+      "mean_abs_shap": 0.334043910555564
+    },
+    {
+      "feature": "Contract_Two year",
+      "mean_abs_shap": 0.2923629850571887
+    },
+    {
+      "feature": "tenure_band_0-6m",
+      "mean_abs_shap": 0.1793161055822809
+    },
+    {
+      "feature": "PaperlessBilling_No",
+      "mean_abs_shap": 0.12344313122064843
+    }
+  ]
+}

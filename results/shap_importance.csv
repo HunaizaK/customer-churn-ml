@@ -1,0 +1,54 @@
+feature,mean_abs_shap
+tenure,0.5613982314477532
+InternetService_Fiber optic,0.41529058113523615
+MonthlyCharges,0.37539693076807007
+avg_monthly_spend,0.36908416264860544
+num_services,0.35937571219670006
+Contract_Month-to-month,0.34829376482202884
+InternetService_DSL,0.334043910555564
+Contract_Two year,0.2923629850571887
+tenure_band_0-6m,0.1793161055822809
+PaperlessBilling_No,0.12344313122064843
+OnlineSecurity_No,0.11918379602074476
+StreamingMovies_Yes,0.1139712244907838
+StreamingTV_Yes,0.10741294789668791
+tenure_band_25-48m,0.10424366395641527
+PaymentMethod_Electronic check,0.10355935106517977
+TechSupport_No,0.10179969904373305
+MultipleLines_No,0.09007073246421023
+OnlineSecurity_No internet service,0.08939025514028007
+StreamingMovies_No internet service,0.08939025514028007
+InternetService_No,0.08939025514028007
+TechSupport_No internet service,0.08939025514028007
+DeviceProtection_No internet service,0.08939025514028007
+StreamingTV_No internet service,0.08939025514028007
+OnlineBackup_No internet service,0.08939025514028007
+Dependents_Yes,0.08540965183112705
+StreamingMovies_No,0.08094533917641672
+StreamingTV_No,0.07528702972145941
+tenure_band_13-24m,0.06500588259427212
+OnlineBackup_No,0.0648553980307724
+OnlineSecurity_Yes,0.06421258577348714
+Partner_No,0.05701120775676902
+SeniorCitizen,0.0563633997673716
+gender_Female,0.05602057475984486
+PaymentMethod_Credit card (automatic),0.05119309347637377
+TechSupport_Yes,0.050240525763996936
+PaymentMethod_Mailed check,0.04841127205759937
+PaymentMethod_Bank transfer (automatic),0.04478512193393479
+MultipleLines_Yes,0.04289851515764943
+gender_Male,0.039437323704910224
+Partner_Yes,0.03776430700171931
+PaperlessBilling_Yes,0.03615109110749219
+TotalCharges,0.03401940421688232
+charge_increase,0.03264080447833722
+DeviceProtection_No,0.02736508600881765
+OnlineBackup_Yes,0.023574321675267886
+tenure_band_7-12m,0.022415883676984827
+MultipleLines_No phone service,0.019161162040581388
+PhoneService_No,0.019161162040581388
+PhoneService_Yes,0.017262963791401215
+tenure_band_49m+,0.012377768387420947
+DeviceProtection_Yes,0.00721630811456795
+Contract_One year,0.006063818191726487
+Dependents_No,0.004645749174534313

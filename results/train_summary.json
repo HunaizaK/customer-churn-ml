@@ -1,0 +1,62 @@
+{
+  "best_model": "logistic_regression",
+  "threshold": 0.39,
+  "cv": [
+    {
+      "model": "logistic_regression",
+      "fit_seconds": 0.6,
+      "roc_auc_mean": 0.847,
+      "roc_auc_std": 0.0109,
+      "pr_auc_mean": 0.6602,
+      "pr_auc_std": 0.0142,
+      "f1_mean": 0.6281,
+      "f1_std": 0.0205,
+      "precision_mean": 0.52,
+      "precision_std": 0.0168,
+      "recall_mean": 0.7933,
+      "recall_std": 0.0336
+    },
+    {
+      "model": "random_forest",
+      "fit_seconds": 5.8,
+      "roc_auc_mean": 0.8465,
+      "roc_auc_std": 0.0089,
+      "pr_auc_mean": 0.6612,
+      "pr_auc_std": 0.0228,
+      "f1_mean": 0.631,
+      "f1_std": 0.0134,
+      "precision_mean": 0.5347,
+      "precision_std": 0.0127,
+      "recall_mean": 0.7699,
+      "recall_std": 0.0182
+    },
+    {
+      "model": "lightgbm",
+      "fit_seconds": 2.0,
+      "roc_auc_mean": 0.8422,
+      "roc_auc_std": 0.0102,
+      "pr_auc_mean": 0.6557,
+      "pr_auc_std": 0.0251,
+      "f1_mean": 0.6299,
+      "f1_std": 0.0202,
+      "precision_mean": 0.5421,
+      "precision_std": 0.0153,
+      "recall_mean": 0.7518,
+      "recall_std": 0.029
+    },
+    {
+      "model": "svm",
+      "fit_seconds": 20.4,
+      "roc_auc_mean": 0.8281,
+      "roc_auc_std": 0.009,
+      "pr_auc_mean": 0.6117,
+      "pr_auc_std": 0.0243,
+      "f1_mean": 0.624,
+      "f1_std": 0.0158,
+      "precision_mean": 0.5242,
+      "precision_std": 0.0131,
+      "recall_mean": 0.7712,
+      "recall_std": 0.0287
+    }
+  ]
+}

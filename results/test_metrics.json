@@ -1,0 +1,22 @@
+{
+  "model": "logistic_regression",
+  "test_rows": 1409,
+  "at_cost_threshold": {
+    "threshold": 0.39,
+    "roc_auc": 0.8449,
+    "pr_auc": 0.6513,
+    "f1": 0.6094,
+    "precision": 0.4654,
+    "recall": 0.8824,
+    "flagged_share": 0.5032
+  },
+  "at_0.5": {
+    "threshold": 0.5,
+    "roc_auc": 0.8449,
+    "pr_auc": 0.6513,
+    "f1": 0.6198,
+    "precision": 0.5051,
+    "recall": 0.8021,
+    "flagged_share": 0.4216
+  }
+}
