@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "churn"
 version = "1.0.0"
 description = "Telco customer churn: segmentation, model comparison, explainability and a prediction API"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 authors = [{ name = "Hunaiza Khan" }]
 license = { text = "MIT" }
 
@@ -15,7 +15,7 @@ where = ["src"]
 
 [tool.ruff]
 line-length = 150
-target-version = "py310"
+target-version = "py311"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP"]

@@ -1,7 +1,7 @@
 # Customer Churn Prediction & Segmentation
 
 [![CI](https://github.com/HunaizaK/customer-churn-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/HunaizaK/customer-churn-ml/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12-blue)
+![Python](https://img.shields.io/badge/python-3.11%20|%203.12%20|%203.13-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9-orange)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
